@@ -1,6 +1,6 @@
 # Airbnb and COVID: Where Do You Go From Here?
 
-Analyzing Airbnb short-term rental data from NYC.
+Analyzing Airbnb short-term rental data in NYC.
 
 Slides Presentation: https://docs.google.com/presentation/d/15JeCekJbyqcmmWik5bbLSAgktx44l-jOoHM47Cj6U_A/edit?usp=sharing
 
