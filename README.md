@@ -1,4 +1,4 @@
-# Airbnb and COVID: Where Do You Go From Here?
+# Airbnb + COVID: Where Do You Go From Here?
 
 Analyzing Airbnb short-term rental data in NYC.
 
